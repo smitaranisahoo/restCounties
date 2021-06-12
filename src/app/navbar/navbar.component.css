@@ -1,0 +1,17 @@
+  
+.shadow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: cornsilk;
+    padding: 2rem 1rem}
+    .h2 {
+      font-size: 20px;
+    }
+  
+    .div {
+      font-weight: 600;
+    }
+  
+  
+ 
